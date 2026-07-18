@@ -52,4 +52,4 @@ The project compares several clustering algorithms using silhouette scores and v
 
 ## Author
 
-Yassin Amr
+Yassin Zaki
