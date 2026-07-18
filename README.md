@@ -1,4 +1,3 @@
-# human-activity-recognition-clustering
 # Human Activity Recognition using Unsupervised Machine Learning
 
 ## Overview
